@@ -1,0 +1,207 @@
+2025-09-14 17:28:42 | INFO | Sent message to topic 'buzzline_json': {'message': 'Hello, Kafka world!', 'author': 'Diana'}
+2025-09-14 17:28:42 | INFO | Message received from author: Diana
+2025-09-14 17:28:42 | INFO | Updated author counts: {'Eve': 26, 'Alice': 44, 'Charlie': 24, 'Diana': 48, 'Bob': 30}
+2025-09-14 17:28:43 | INFO | Sent message to topic 'buzzline_json': {'message': 'Kafka is awesome.', 'author': 'Bob'}
+2025-09-14 17:28:43 | INFO | Processed JSON message: {'message': 'Kafka is awesome.', 'author': 'Bob'}
+2025-09-14 17:28:43 | INFO | Message received from author: Bob
+2025-09-14 17:28:43 | INFO | Updated author counts: {'Eve': 26, 'Alice': 44, 'Charlie': 24, 'Diana': 48, 'Bob': 31}
+2025-09-14 17:28:44 | INFO | Sent message to topic 'buzzline_json': {'message': 'I love Python!', 'author': 'Eve'}
+2025-09-14 17:28:44 | INFO | Processed JSON message: {'message': 'I love Python!', 'author': 'Eve'}
+2025-09-14 17:28:44 | INFO | Message received from author: Eve
+2025-09-14 17:28:44 | INFO | Updated author counts: {'Eve': 27, 'Alice': 44, 'Charlie': 24, 'Diana': 48, 'Bob': 31}
+2025-09-14 17:28:45 | INFO | Sent message to topic 'buzzline_json': {'message': 'JSON makes life easier.', 'author': 'Charlie'}
+2025-09-14 17:28:45 | INFO | Processed JSON message: {'message': 'JSON makes life easier.', 'author': 'Charlie'}
+2025-09-14 17:28:45 | INFO | Message received from author: Charlie
+2025-09-14 17:28:45 | INFO | Updated author counts: {'Eve': 27, 'Alice': 44, 'Charlie': 25, 'Diana': 48, 'Bob': 31}
+2025-09-14 17:28:46 | INFO | Sent message to topic 'buzzline_json': {'message': 'I love Python!', 'author': 'Charlie'}
+2025-09-14 17:28:46 | INFO | Processed JSON message: {'message': 'I love Python!', 'author': 'Charlie'}
+2025-09-14 17:28:46 | INFO | Message received from author: Charlie
+2025-09-14 17:28:46 | INFO | Updated author counts: {'Eve': 27, 'Alice': 44, 'Charlie': 26, 'Diana': 48, 'Bob': 31}
+2025-09-14 17:28:47 | INFO | Sent message to topic 'buzzline_json': {'message': 'I love Python!', 'author': 'Charlie'}
+2025-09-14 17:28:47 | INFO | Processed JSON message: {'message': 'I love Python!', 'author': 'Charlie'}
+2025-09-14 17:28:47 | INFO | Message received from author: Charlie
+2025-09-14 17:28:47 | INFO | Updated author counts: {'Eve': 27, 'Alice': 44, 'Charlie': 27, 'Diana': 48, 'Bob': 31}
+2025-09-14 17:28:48 | INFO | Sent message to topic 'buzzline_json': {'message': 'I love Python!', 'author': 'Diana'}
+2025-09-14 17:28:48 | INFO | Processed JSON message: {'message': 'I love Python!', 'author': 'Diana'}
+2025-09-14 17:28:48 | INFO | Message received from author: Diana
+2025-09-14 17:28:48 | INFO | Updated author counts: {'Eve': 27, 'Alice': 44, 'Charlie': 27, 'Diana': 49, 'Bob': 31}
+2025-09-14 17:28:49 | INFO | Sent message to topic 'buzzline_json': {'message': 'Streaming data is fun.', 'author': 'Diana'}
+2025-09-14 17:28:49 | INFO | Processed JSON message: {'message': 'Streaming data is fun.', 'author': 'Diana'}
+2025-09-14 17:28:49 | INFO | Message received from author: Diana
+2025-09-14 17:28:49 | INFO | Updated author counts: {'Eve': 27, 'Alice': 44, 'Charlie': 27, 'Diana': 50, 'Bob': 31}
+2025-09-14 17:28:50 | INFO | Sent message to topic 'buzzline_json': {'message': 'Data engineering is my passion.', 'author': 'Eve'}
+2025-09-14 17:28:50 | INFO | Processed JSON message: {'message': 'Data engineering is my passion.', 'author': 'Eve'}
+2025-09-14 17:28:50 | INFO | Message received from author: Eve
+2025-09-14 17:28:50 | INFO | Updated author counts: {'Eve': 28, 'Alice': 44, 'Charlie': 27, 'Diana': 50, 'Bob': 31}
+2025-09-14 17:28:51 | INFO | Sent message to topic 'buzzline_json': {'message': 'Buzz messages for everyone.', 'author': 'Eve'}
+2025-09-14 17:28:51 | INFO | Processed JSON message: {'message': 'Buzz messages for everyone.', 'author': 'Eve'}
+2025-09-14 17:28:51 | INFO | Message received from author: Eve
+2025-09-14 17:28:51 | INFO | Updated author counts: {'Eve': 29, 'Alice': 44, 'Charlie': 27, 'Diana': 50, 'Bob': 31}
+2025-09-14 17:28:52 | INFO | Sent message to topic 'buzzline_json': {'message': 'JSON makes life easier.', 'author': 'Eve'}
+2025-09-14 17:28:52 | INFO | Processed JSON message: {'message': 'JSON makes life easier.', 'author': 'Eve'}
+2025-09-14 17:28:52 | INFO | Message received from author: Eve
+2025-09-14 17:28:52 | INFO | Updated author counts: {'Eve': 30, 'Alice': 44, 'Charlie': 27, 'Diana': 50, 'Bob': 31}
+2025-09-14 17:28:53 | INFO | Sent message to topic 'buzzline_json': {'message': 'Have a great day!', 'author': 'Alice'}
+2025-09-14 17:28:53 | INFO | Processed JSON message: {'message': 'Have a great day!', 'author': 'Alice'}
+2025-09-14 17:28:53 | INFO | Message received from author: Alice
+2025-09-14 17:28:53 | INFO | Updated author counts: {'Eve': 30, 'Alice': 45, 'Charlie': 27, 'Diana': 50, 'Bob': 31}
+2025-09-14 17:28:54 | INFO | Sent message to topic 'buzzline_json': {'message': 'I love Python!', 'author': 'Bob'}
+2025-09-14 17:28:54 | INFO | Processed JSON message: {'message': 'I love Python!', 'author': 'Bob'}
+2025-09-14 17:28:54 | INFO | Message received from author: Bob
+2025-09-14 17:28:54 | INFO | Updated author counts: {'Eve': 30, 'Alice': 45, 'Charlie': 27, 'Diana': 50, 'Bob': 32}
+2025-09-14 17:28:55 | INFO | Sent message to topic 'buzzline_json': {'message': 'I love Python!', 'author': 'Bob'}
+2025-09-14 17:28:55 | INFO | Processed JSON message: {'message': 'I love Python!', 'author': 'Bob'}
+2025-09-14 17:28:55 | INFO | Message received from author: Bob
+2025-09-14 17:28:55 | INFO | Updated author counts: {'Eve': 30, 'Alice': 45, 'Charlie': 27, 'Diana': 50, 'Bob': 33}
+2025-09-14 17:28:56 | INFO | Sent message to topic 'buzzline_json': {'message': 'This is a buzz message.', 'author': 'Eve'}
+2025-09-14 17:28:56 | INFO | Processed JSON message: {'message': 'This is a buzz message.', 'author': 'Eve'}
+2025-09-14 17:28:56 | INFO | Message received from author: Eve
+2025-09-14 17:28:56 | INFO | Updated author counts: {'Eve': 31, 'Alice': 45, 'Charlie': 27, 'Diana': 50, 'Bob': 33}
+2025-09-14 17:28:57 | INFO | Sent message to topic 'buzzline_json': {'message': 'This is a buzz message.', 'author': 'Alice'}
+2025-09-14 17:28:57 | INFO | Processed JSON message: {'message': 'This is a buzz message.', 'author': 'Alice'}
+2025-09-14 17:28:57 | INFO | Message received from author: Alice
+2025-09-14 17:28:57 | INFO | Updated author counts: {'Eve': 31, 'Alice': 46, 'Charlie': 27, 'Diana': 50, 'Bob': 33}
+2025-09-14 17:28:58 | INFO | Sent message to topic 'buzzline_json': {'message': 'Distributed systems are fascinating.', 'author': 'Diana'}
+2025-09-14 17:28:58 | INFO | Processed JSON message: {'message': 'Distributed systems are fascinating.', 'author': 'Diana'}
+2025-09-14 17:28:58 | INFO | Message received from author: Diana
+2025-09-14 17:28:58 | INFO | Updated author counts: {'Eve': 31, 'Alice': 46, 'Charlie': 27, 'Diana': 51, 'Bob': 33}
+2025-09-14 17:28:59 | INFO | Sent message to topic 'buzzline_json': {'message': 'Streaming data is fun.', 'author': 'Eve'}
+2025-09-14 17:28:59 | INFO | Processed JSON message: {'message': 'Streaming data is fun.', 'author': 'Eve'}
+2025-09-14 17:28:59 | INFO | Message received from author: Eve
+2025-09-14 17:28:59 | INFO | Updated author counts: {'Eve': 32, 'Alice': 46, 'Charlie': 27, 'Diana': 51, 'Bob': 33}
+2025-09-14 17:29:00 | INFO | Sent message to topic 'buzzline_json': {'message': 'Have a great day!', 'author': 'Charlie'}
+2025-09-14 17:29:00 | INFO | Processed JSON message: {'message': 'Have a great day!', 'author': 'Charlie'}
+2025-09-14 17:29:00 | INFO | Message received from author: Charlie
+2025-09-14 17:29:00 | INFO | Updated author counts: {'Eve': 32, 'Alice': 46, 'Charlie': 28, 'Diana': 51, 'Bob': 33}
+2025-09-14 17:29:01 | INFO | Sent message to topic 'buzzline_json': {'message': 'JSON makes life easier.', 'author': 'Eve'}
+2025-09-14 17:29:01 | INFO | Processed JSON message: {'message': 'JSON makes life easier.', 'author': 'Eve'}
+2025-09-14 17:29:01 | INFO | Message received from author: Eve
+2025-09-14 17:29:01 | INFO | Updated author counts: {'Eve': 33, 'Alice': 46, 'Charlie': 28, 'Diana': 51, 'Bob': 33}
+2025-09-14 17:29:02 | INFO | Sent message to topic 'buzzline_json': {'message': 'Buzz messages for everyone.', 'author': 'Diana'}
+2025-09-14 17:29:02 | INFO | Processed JSON message: {'message': 'Buzz messages for everyone.', 'author': 'Diana'}
+2025-09-14 17:29:02 | INFO | Message received from author: Diana
+2025-09-14 17:29:02 | INFO | Updated author counts: {'Eve': 33, 'Alice': 46, 'Charlie': 28, 'Diana': 52, 'Bob': 33}
+2025-09-14 17:29:03 | INFO | Sent message to topic 'buzzline_json': {'message': 'This is a buzz message.', 'author': 'Charlie'}
+2025-09-14 17:29:03 | INFO | Processed JSON message: {'message': 'This is a buzz message.', 'author': 'Charlie'}
+2025-09-14 17:29:03 | INFO | Message received from author: Charlie
+2025-09-14 17:29:03 | INFO | Updated author counts: {'Eve': 33, 'Alice': 46, 'Charlie': 29, 'Diana': 52, 'Bob': 33}
+2025-09-14 17:29:04 | INFO | Sent message to topic 'buzzline_json': {'message': 'Distributed systems are fascinating.', 'author': 'Charlie'}
+2025-09-14 17:29:04 | INFO | Processed JSON message: {'message': 'Distributed systems are fascinating.', 'author': 'Charlie'}
+2025-09-14 17:29:04 | INFO | Message received from author: Charlie
+2025-09-14 17:29:04 | INFO | Updated author counts: {'Eve': 33, 'Alice': 46, 'Charlie': 30, 'Diana': 52, 'Bob': 33}
+2025-09-14 17:29:05 | INFO | Sent message to topic 'buzzline_json': {'message': 'Buzz messages for everyone.', 'author': 'Bob'}
+2025-09-14 17:29:05 | INFO | Processed JSON message: {'message': 'Buzz messages for everyone.', 'author': 'Bob'}
+2025-09-14 17:29:05 | INFO | Message received from author: Bob
+2025-09-14 17:29:05 | INFO | Updated author counts: {'Eve': 33, 'Alice': 46, 'Charlie': 30, 'Diana': 52, 'Bob': 34}
+2025-09-14 17:29:06 | INFO | Sent message to topic 'buzzline_json': {'message': 'This is a buzz message.', 'author': 'Eve'}
+2025-09-14 17:29:06 | INFO | Processed JSON message: {'message': 'This is a buzz message.', 'author': 'Eve'}
+2025-09-14 17:29:06 | INFO | Message received from author: Eve
+2025-09-14 17:29:06 | INFO | Updated author counts: {'Eve': 34, 'Alice': 46, 'Charlie': 30, 'Diana': 52, 'Bob': 34}
+2025-09-14 17:29:07 | INFO | Sent message to topic 'buzzline_json': {'message': 'Data engineering is my passion.', 'author': 'Diana'}
+2025-09-14 17:29:07 | INFO | Processed JSON message: {'message': 'Data engineering is my passion.', 'author': 'Diana'}
+2025-09-14 17:29:07 | INFO | Message received from author: Diana
+2025-09-14 17:29:07 | INFO | Updated author counts: {'Eve': 34, 'Alice': 46, 'Charlie': 30, 'Diana': 53, 'Bob': 34}
+2025-09-14 17:29:08 | INFO | Sent message to topic 'buzzline_json': {'message': 'Data engineering is my passion.', 'author': 'Alice'}
+2025-09-14 17:29:08 | INFO | Processed JSON message: {'message': 'Data engineering is my passion.', 'author': 'Alice'}
+2025-09-14 17:29:08 | INFO | Message received from author: Alice
+2025-09-14 17:29:08 | INFO | Updated author counts: {'Eve': 34, 'Alice': 47, 'Charlie': 30, 'Diana': 53, 'Bob': 34}
+2025-09-14 17:29:09 | INFO | Sent message to topic 'buzzline_json': {'message': 'Buzz messages for everyone.', 'author': 'Diana'}
+2025-09-14 17:29:09 | INFO | Processed JSON message: {'message': 'Buzz messages for everyone.', 'author': 'Diana'}
+2025-09-14 17:29:09 | INFO | Message received from author: Diana
+2025-09-14 17:29:09 | INFO | Updated author counts: {'Eve': 34, 'Alice': 47, 'Charlie': 30, 'Diana': 54, 'Bob': 34}
+2025-09-14 17:29:10 | INFO | Sent message to topic 'buzzline_json': {'message': 'JSON makes life easier.', 'author': 'Alice'}
+2025-09-14 17:29:10 | INFO | Processed JSON message: {'message': 'JSON makes life easier.', 'author': 'Alice'}
+2025-09-14 17:29:10 | INFO | Message received from author: Alice
+2025-09-14 17:29:10 | INFO | Updated author counts: {'Eve': 34, 'Alice': 48, 'Charlie': 30, 'Diana': 54, 'Bob': 34}
+2025-09-14 17:29:11 | INFO | Opening data file in read mode: C:/Users/USER/Documents/44671 Streaming Data/buzzline-03-mcruz/data/buzz.json
+2025-09-14 17:29:11 | INFO | Reading data from file: C:/Users/USER/Documents/44671 Streaming Data/buzzline-03-mcruz/data/buzz.json
+2025-09-14 17:29:11 | INFO | Sent message to topic 'buzzline_json': {'message': 'Data engineering is my passion.', 'author': 'Eve'}
+2025-09-14 17:29:11 | INFO | Processed JSON message: {'message': 'Data engineering is my passion.', 'author': 'Eve'}
+2025-09-14 17:29:11 | INFO | Message received from author: Eve
+2025-09-14 17:29:11 | INFO | Updated author counts: {'Eve': 35, 'Alice': 48, 'Charlie': 30, 'Diana': 54, 'Bob': 34}
+2025-09-14 17:29:12 | INFO | Sent message to topic 'buzzline_json': {'message': 'Distributed systems are fascinating.', 'author': 'Alice'}
+2025-09-14 17:29:12 | INFO | Processed JSON message: {'message': 'Distributed systems are fascinating.', 'author': 'Alice'}
+2025-09-14 17:29:12 | INFO | Message received from author: Alice
+2025-09-14 17:29:12 | INFO | Updated author counts: {'Eve': 35, 'Alice': 49, 'Charlie': 30, 'Diana': 54, 'Bob': 34}
+2025-09-14 17:29:13 | INFO | Sent message to topic 'buzzline_json': {'message': 'Have a great day!', 'author': 'Charlie'}
+2025-09-14 17:29:13 | INFO | Processed JSON message: {'message': 'Have a great day!', 'author': 'Charlie'}
+2025-09-14 17:29:13 | INFO | Message received from author: Charlie
+2025-09-14 17:29:13 | INFO | Updated author counts: {'Eve': 35, 'Alice': 49, 'Charlie': 31, 'Diana': 54, 'Bob': 34}
+2025-09-14 17:29:14 | INFO | Sent message to topic 'buzzline_json': {'message': 'Data engineering is my passion.', 'author': 'Alice'}
+2025-09-14 17:29:14 | INFO | Processed JSON message: {'message': 'Data engineering is my passion.', 'author': 'Alice'}
+2025-09-14 17:29:14 | INFO | Message received from author: Alice
+2025-09-14 17:29:14 | INFO | Updated author counts: {'Eve': 35, 'Alice': 50, 'Charlie': 31, 'Diana': 54, 'Bob': 34}
+2025-09-14 17:29:15 | INFO | Sent message to topic 'buzzline_json': {'message': 'Distributed systems are fascinating.', 'author': 'Diana'}
+2025-09-14 17:29:15 | INFO | Processed JSON message: {'message': 'Distributed systems are fascinating.', 'author': 'Diana'}
+2025-09-14 17:29:15 | INFO | Message received from author: Diana
+2025-09-14 17:29:15 | INFO | Updated author counts: {'Eve': 35, 'Alice': 50, 'Charlie': 31, 'Diana': 55, 'Bob': 34}
+2025-09-14 17:29:16 | INFO | Sent message to topic 'buzzline_json': {'message': 'Buzz messages for everyone.', 'author': 'Alice'}
+2025-09-14 17:29:16 | INFO | Processed JSON message: {'message': 'Buzz messages for everyone.', 'author': 'Alice'}
+2025-09-14 17:29:16 | INFO | Message received from author: Alice
+2025-09-14 17:29:16 | INFO | Updated author counts: {'Eve': 35, 'Alice': 51, 'Charlie': 31, 'Diana': 55, 'Bob': 34}
+2025-09-14 17:29:17 | INFO | Sent message to topic 'buzzline_json': {'message': 'Hello, Kafka world!', 'author': 'Diana'}
+2025-09-14 17:29:17 | INFO | Processed JSON message: {'message': 'Hello, Kafka world!', 'author': 'Diana'}
+2025-09-14 17:29:17 | INFO | Message received from author: Diana
+2025-09-14 17:29:17 | INFO | Updated author counts: {'Eve': 35, 'Alice': 51, 'Charlie': 31, 'Diana': 56, 'Bob': 34}
+2025-09-14 17:29:18 | INFO | Sent message to topic 'buzzline_json': {'message': 'This is a buzz message.', 'author': 'Eve'}
+2025-09-14 17:29:18 | INFO | Processed JSON message: {'message': 'This is a buzz message.', 'author': 'Eve'}
+2025-09-14 17:29:18 | INFO | Message received from author: Eve
+2025-09-14 17:29:18 | INFO | Updated author counts: {'Eve': 36, 'Alice': 51, 'Charlie': 31, 'Diana': 56, 'Bob': 34}
+2025-09-14 17:29:19 | INFO | Sent message to topic 'buzzline_json': {'message': 'JSON makes life easier.', 'author': 'Eve'}
+2025-09-14 17:29:19 | INFO | Processed JSON message: {'message': 'JSON makes life easier.', 'author': 'Eve'}
+2025-09-14 17:29:19 | INFO | Message received from author: Eve
+2025-09-14 17:29:19 | INFO | Updated author counts: {'Eve': 37, 'Alice': 51, 'Charlie': 31, 'Diana': 56, 'Bob': 34}
+2025-09-14 17:29:20 | INFO | Sent message to topic 'buzzline_json': {'message': 'JSON makes life easier.', 'author': 'Alice'}
+2025-09-14 17:29:20 | INFO | Processed JSON message: {'message': 'JSON makes life easier.', 'author': 'Alice'}
+2025-09-14 17:29:20 | INFO | Message received from author: Alice
+2025-09-14 17:29:20 | INFO | Updated author counts: {'Eve': 37, 'Alice': 52, 'Charlie': 31, 'Diana': 56, 'Bob': 34}
+2025-09-14 17:29:21 | INFO | Sent message to topic 'buzzline_json': {'message': 'Data engineering is my passion.', 'author': 'Diana'}
+2025-09-14 17:29:21 | INFO | Processed JSON message: {'message': 'Data engineering is my passion.', 'author': 'Diana'}
+2025-09-14 17:29:21 | INFO | Message received from author: Diana
+2025-09-14 17:29:21 | INFO | Updated author counts: {'Eve': 37, 'Alice': 52, 'Charlie': 31, 'Diana': 57, 'Bob': 34}
+2025-09-14 17:29:22 | INFO | Sent message to topic 'buzzline_json': {'message': 'JSON makes life easier.', 'author': 'Diana'}
+2025-09-14 17:29:22 | INFO | Processed JSON message: {'message': 'JSON makes life easier.', 'author': 'Diana'}
+2025-09-14 17:29:22 | INFO | Message received from author: Diana
+2025-09-14 17:29:22 | INFO | Updated author counts: {'Eve': 37, 'Alice': 52, 'Charlie': 31, 'Diana': 58, 'Bob': 34}
+2025-09-14 17:29:23 | INFO | Sent message to topic 'buzzline_json': {'message': 'Kafka is awesome.', 'author': 'Charlie'}
+2025-09-14 17:29:23 | INFO | Processed JSON message: {'message': 'Kafka is awesome.', 'author': 'Charlie'}
+2025-09-14 17:29:23 | INFO | Message received from author: Charlie
+2025-09-14 17:29:23 | INFO | Updated author counts: {'Eve': 37, 'Alice': 52, 'Charlie': 32, 'Diana': 58, 'Bob': 34}
+2025-09-14 17:29:24 | INFO | Sent message to topic 'buzzline_json': {'message': 'JSON makes life easier.', 'author': 'Bob'}
+2025-09-14 17:29:24 | INFO | Processed JSON message: {'message': 'JSON makes life easier.', 'author': 'Bob'}
+2025-09-14 17:29:24 | INFO | Message received from author: Bob
+2025-09-14 17:29:24 | INFO | Updated author counts: {'Eve': 37, 'Alice': 52, 'Charlie': 32, 'Diana': 58, 'Bob': 35}
+2025-09-14 17:29:25 | INFO | Sent message to topic 'buzzline_json': {'message': 'I love Python!', 'author': 'Bob'}
+2025-09-14 17:29:25 | INFO | Processed JSON message: {'message': 'I love Python!', 'author': 'Bob'}
+2025-09-14 17:29:25 | INFO | Message received from author: Bob
+2025-09-14 17:29:25 | INFO | Updated author counts: {'Eve': 37, 'Alice': 52, 'Charlie': 32, 'Diana': 58, 'Bob': 36}
+2025-09-14 17:29:26 | INFO | Sent message to topic 'buzzline_json': {'message': 'This is a buzz message.', 'author': 'Eve'}
+2025-09-14 17:29:26 | INFO | Processed JSON message: {'message': 'This is a buzz message.', 'author': 'Eve'}
+2025-09-14 17:29:26 | INFO | Message received from author: Eve
+2025-09-14 17:29:26 | INFO | Updated author counts: {'Eve': 38, 'Alice': 52, 'Charlie': 32, 'Diana': 58, 'Bob': 36}
+2025-09-14 17:29:27 | INFO | Sent message to topic 'buzzline_json': {'message': 'I love Python!', 'author': 'Eve'}
+2025-09-14 17:29:27 | INFO | Processed JSON message: {'message': 'I love Python!', 'author': 'Eve'}
+2025-09-14 17:29:27 | INFO | Message received from author: Eve
+2025-09-14 17:29:27 | INFO | Updated author counts: {'Eve': 39, 'Alice': 52, 'Charlie': 32, 'Diana': 58, 'Bob': 36}
+2025-09-14 17:29:28 | INFO | Sent message to topic 'buzzline_json': {'message': 'Buzz messages for everyone.', 'author': 'Alice'}
+2025-09-14 17:29:28 | INFO | Processed JSON message: {'message': 'Buzz messages for everyone.', 'author': 'Alice'}
+2025-09-14 17:29:28 | INFO | Message received from author: Alice
+2025-09-14 17:29:28 | INFO | Updated author counts: {'Eve': 39, 'Alice': 53, 'Charlie': 32, 'Diana': 58, 'Bob': 36}
+2025-09-14 17:29:29 | INFO | Sent message to topic 'buzzline_json': {'message': 'This is a buzz message.', 'author': 'Alice'}
+2025-09-14 17:29:29 | INFO | Processed JSON message: {'message': 'This is a buzz message.', 'author': 'Alice'}
+2025-09-14 17:29:29 | INFO | Message received from author: Alice
+2025-09-14 17:29:29 | INFO | Updated author counts: {'Eve': 39, 'Alice': 54, 'Charlie': 32, 'Diana': 58, 'Bob': 36}
+2025-09-14 17:29:30 | INFO | Sent message to topic 'buzzline_json': {'message': 'Data engineering is my passion.', 'author': 'Diana'}
+2025-09-14 17:29:30 | INFO | Processed JSON message: {'message': 'Data engineering is my passion.', 'author': 'Diana'}
+2025-09-14 17:29:30 | INFO | Message received from author: Diana
+2025-09-14 17:29:30 | INFO | Updated author counts: {'Eve': 39, 'Alice': 54, 'Charlie': 32, 'Diana': 59, 'Bob': 36}
+2025-09-14 17:29:31 | INFO | Sent message to topic 'buzzline_json': {'message': 'I love Python!', 'author': 'Eve'}
+2025-09-14 17:29:31 | INFO | Processed JSON message: {'message': 'I love Python!', 'author': 'Eve'}
+2025-09-14 17:29:31 | INFO | Message received from author: Eve
+2025-09-14 17:29:31 | INFO | Updated author counts: {'Eve': 40, 'Alice': 54, 'Charlie': 32, 'Diana': 59, 'Bob': 36}
+2025-09-14 17:29:31 | WARNING | Producer interrupted by user.
+2025-09-14 17:29:31 | INFO | Kafka producer closed.
+2025-09-14 17:29:31 | INFO | END producer.
+2025-09-14 17:29:33 | WARNING | Consumer interrupted by user.
+2025-09-14 17:29:33 | INFO | Kafka consumer for topic 'buzzline_json' closed.
+2025-09-14 17:29:33 | INFO | END consumer for topic 'buzzline_json' and group 'buzz_group'.
