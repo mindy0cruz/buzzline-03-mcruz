@@ -40,14 +40,14 @@ load_dotenv()
 
 def get_kafka_topic() -> str:
     """Fetch Kafka topic from environment or use default."""
-    topic = os.getenv("SMOKER_TOPIC", "wnba_topic")
+    topic = os.getenv("WNBA Player Stats", "wnba_topic")
     logger.info(f"Kafka topic: {topic}")
     return topic
 
 
 def get_kafka_consumer_group_id() -> str:
     """Fetch Kafka consumer group id from environment or use default."""
-    group_id: str = os.getenv("SMOKER_CONSUMER_GROUP_ID", "wnba_consumer_group")
+    group_id: str = os.getenv("WNBA_CONSUMER_GROUP_ID", "wnba_consumer_group")
     logger.info(f"Kafka consumer group id: {group_id}")
     return group_id
 

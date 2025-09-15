@@ -36,7 +36,7 @@ load_dotenv()
 
 def get_kafka_topic() -> str:
     """Fetch Kafka topic from environment or use default."""
-    topic = os.getenv("SMOKER_TOPIC", "wnba_topic")
+    topic = os.getenv("WNBA TOP PLAYER STATS", "wnba_topic")
     logger.info(f"Kafka topic: {topic}")
     return topic
 

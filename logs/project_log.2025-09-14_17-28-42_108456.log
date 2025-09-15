@@ -1,0 +1,482 @@
+2025-09-14 17:28:42 | INFO | Sent message to topic 'buzzline_json': {'message': 'Hello, Kafka world!', 'author': 'Diana'}
+2025-09-14 17:28:42 | INFO | Message received from author: Diana
+2025-09-14 17:28:42 | INFO | Updated author counts: {'Eve': 26, 'Alice': 44, 'Charlie': 24, 'Diana': 48, 'Bob': 30}
+2025-09-14 17:28:43 | INFO | Sent message to topic 'buzzline_json': {'message': 'Kafka is awesome.', 'author': 'Bob'}
+2025-09-14 17:28:43 | INFO | Processed JSON message: {'message': 'Kafka is awesome.', 'author': 'Bob'}
+2025-09-14 17:28:43 | INFO | Message received from author: Bob
+2025-09-14 17:28:43 | INFO | Updated author counts: {'Eve': 26, 'Alice': 44, 'Charlie': 24, 'Diana': 48, 'Bob': 31}
+2025-09-14 17:28:44 | INFO | Sent message to topic 'buzzline_json': {'message': 'I love Python!', 'author': 'Eve'}
+2025-09-14 17:28:44 | INFO | Processed JSON message: {'message': 'I love Python!', 'author': 'Eve'}
+2025-09-14 17:28:44 | INFO | Message received from author: Eve
+2025-09-14 17:28:44 | INFO | Updated author counts: {'Eve': 27, 'Alice': 44, 'Charlie': 24, 'Diana': 48, 'Bob': 31}
+2025-09-14 17:28:45 | INFO | Sent message to topic 'buzzline_json': {'message': 'JSON makes life easier.', 'author': 'Charlie'}
+2025-09-14 17:28:45 | INFO | Processed JSON message: {'message': 'JSON makes life easier.', 'author': 'Charlie'}
+2025-09-14 17:28:45 | INFO | Message received from author: Charlie
+2025-09-14 17:28:45 | INFO | Updated author counts: {'Eve': 27, 'Alice': 44, 'Charlie': 25, 'Diana': 48, 'Bob': 31}
+2025-09-14 17:28:46 | INFO | Sent message to topic 'buzzline_json': {'message': 'I love Python!', 'author': 'Charlie'}
+2025-09-14 17:28:46 | INFO | Processed JSON message: {'message': 'I love Python!', 'author': 'Charlie'}
+2025-09-14 17:28:46 | INFO | Message received from author: Charlie
+2025-09-14 17:28:46 | INFO | Updated author counts: {'Eve': 27, 'Alice': 44, 'Charlie': 26, 'Diana': 48, 'Bob': 31}
+2025-09-14 17:28:47 | INFO | Sent message to topic 'buzzline_json': {'message': 'I love Python!', 'author': 'Charlie'}
+2025-09-14 17:28:47 | INFO | Processed JSON message: {'message': 'I love Python!', 'author': 'Charlie'}
+2025-09-14 17:28:47 | INFO | Message received from author: Charlie
+2025-09-14 17:28:47 | INFO | Updated author counts: {'Eve': 27, 'Alice': 44, 'Charlie': 27, 'Diana': 48, 'Bob': 31}
+2025-09-14 17:28:48 | INFO | Sent message to topic 'buzzline_json': {'message': 'I love Python!', 'author': 'Diana'}
+2025-09-14 17:28:48 | INFO | Processed JSON message: {'message': 'I love Python!', 'author': 'Diana'}
+2025-09-14 17:28:48 | INFO | Message received from author: Diana
+2025-09-14 17:28:48 | INFO | Updated author counts: {'Eve': 27, 'Alice': 44, 'Charlie': 27, 'Diana': 49, 'Bob': 31}
+2025-09-14 17:28:49 | INFO | Sent message to topic 'buzzline_json': {'message': 'Streaming data is fun.', 'author': 'Diana'}
+2025-09-14 17:28:49 | INFO | Processed JSON message: {'message': 'Streaming data is fun.', 'author': 'Diana'}
+2025-09-14 17:28:49 | INFO | Message received from author: Diana
+2025-09-14 17:28:49 | INFO | Updated author counts: {'Eve': 27, 'Alice': 44, 'Charlie': 27, 'Diana': 50, 'Bob': 31}
+2025-09-14 17:28:50 | INFO | Sent message to topic 'buzzline_json': {'message': 'Data engineering is my passion.', 'author': 'Eve'}
+2025-09-14 17:28:50 | INFO | Processed JSON message: {'message': 'Data engineering is my passion.', 'author': 'Eve'}
+2025-09-14 17:28:50 | INFO | Message received from author: Eve
+2025-09-14 17:28:50 | INFO | Updated author counts: {'Eve': 28, 'Alice': 44, 'Charlie': 27, 'Diana': 50, 'Bob': 31}
+2025-09-14 17:28:51 | INFO | Sent message to topic 'buzzline_json': {'message': 'Buzz messages for everyone.', 'author': 'Eve'}
+2025-09-14 17:28:51 | INFO | Processed JSON message: {'message': 'Buzz messages for everyone.', 'author': 'Eve'}
+2025-09-14 17:28:51 | INFO | Message received from author: Eve
+2025-09-14 17:28:51 | INFO | Updated author counts: {'Eve': 29, 'Alice': 44, 'Charlie': 27, 'Diana': 50, 'Bob': 31}
+2025-09-14 17:28:52 | INFO | Sent message to topic 'buzzline_json': {'message': 'JSON makes life easier.', 'author': 'Eve'}
+2025-09-14 17:28:52 | INFO | Processed JSON message: {'message': 'JSON makes life easier.', 'author': 'Eve'}
+2025-09-14 17:28:52 | INFO | Message received from author: Eve
+2025-09-14 17:28:52 | INFO | Updated author counts: {'Eve': 30, 'Alice': 44, 'Charlie': 27, 'Diana': 50, 'Bob': 31}
+2025-09-14 17:28:53 | INFO | Sent message to topic 'buzzline_json': {'message': 'Have a great day!', 'author': 'Alice'}
+2025-09-14 17:28:53 | INFO | Processed JSON message: {'message': 'Have a great day!', 'author': 'Alice'}
+2025-09-14 17:28:53 | INFO | Message received from author: Alice
+2025-09-14 17:28:53 | INFO | Updated author counts: {'Eve': 30, 'Alice': 45, 'Charlie': 27, 'Diana': 50, 'Bob': 31}
+2025-09-14 17:28:54 | INFO | Sent message to topic 'buzzline_json': {'message': 'I love Python!', 'author': 'Bob'}
+2025-09-14 17:28:54 | INFO | Processed JSON message: {'message': 'I love Python!', 'author': 'Bob'}
+2025-09-14 17:28:54 | INFO | Message received from author: Bob
+2025-09-14 17:28:54 | INFO | Updated author counts: {'Eve': 30, 'Alice': 45, 'Charlie': 27, 'Diana': 50, 'Bob': 32}
+2025-09-14 17:28:55 | INFO | Sent message to topic 'buzzline_json': {'message': 'I love Python!', 'author': 'Bob'}
+2025-09-14 17:28:55 | INFO | Processed JSON message: {'message': 'I love Python!', 'author': 'Bob'}
+2025-09-14 17:28:55 | INFO | Message received from author: Bob
+2025-09-14 17:28:55 | INFO | Updated author counts: {'Eve': 30, 'Alice': 45, 'Charlie': 27, 'Diana': 50, 'Bob': 33}
+2025-09-14 17:28:56 | INFO | Sent message to topic 'buzzline_json': {'message': 'This is a buzz message.', 'author': 'Eve'}
+2025-09-14 17:28:56 | INFO | Processed JSON message: {'message': 'This is a buzz message.', 'author': 'Eve'}
+2025-09-14 17:28:56 | INFO | Message received from author: Eve
+2025-09-14 17:28:56 | INFO | Updated author counts: {'Eve': 31, 'Alice': 45, 'Charlie': 27, 'Diana': 50, 'Bob': 33}
+2025-09-14 17:28:57 | INFO | Sent message to topic 'buzzline_json': {'message': 'This is a buzz message.', 'author': 'Alice'}
+2025-09-14 17:28:57 | INFO | Processed JSON message: {'message': 'This is a buzz message.', 'author': 'Alice'}
+2025-09-14 17:28:57 | INFO | Message received from author: Alice
+2025-09-14 17:28:57 | INFO | Updated author counts: {'Eve': 31, 'Alice': 46, 'Charlie': 27, 'Diana': 50, 'Bob': 33}
+2025-09-14 17:28:58 | INFO | Sent message to topic 'buzzline_json': {'message': 'Distributed systems are fascinating.', 'author': 'Diana'}
+2025-09-14 17:28:58 | INFO | Processed JSON message: {'message': 'Distributed systems are fascinating.', 'author': 'Diana'}
+2025-09-14 17:28:58 | INFO | Message received from author: Diana
+2025-09-14 17:28:58 | INFO | Updated author counts: {'Eve': 31, 'Alice': 46, 'Charlie': 27, 'Diana': 51, 'Bob': 33}
+2025-09-14 17:28:59 | INFO | Sent message to topic 'buzzline_json': {'message': 'Streaming data is fun.', 'author': 'Eve'}
+2025-09-14 17:28:59 | INFO | Processed JSON message: {'message': 'Streaming data is fun.', 'author': 'Eve'}
+2025-09-14 17:28:59 | INFO | Message received from author: Eve
+2025-09-14 17:28:59 | INFO | Updated author counts: {'Eve': 32, 'Alice': 46, 'Charlie': 27, 'Diana': 51, 'Bob': 33}
+2025-09-14 17:29:00 | INFO | Sent message to topic 'buzzline_json': {'message': 'Have a great day!', 'author': 'Charlie'}
+2025-09-14 17:29:00 | INFO | Processed JSON message: {'message': 'Have a great day!', 'author': 'Charlie'}
+2025-09-14 17:29:00 | INFO | Message received from author: Charlie
+2025-09-14 17:29:00 | INFO | Updated author counts: {'Eve': 32, 'Alice': 46, 'Charlie': 28, 'Diana': 51, 'Bob': 33}
+2025-09-14 17:29:01 | INFO | Sent message to topic 'buzzline_json': {'message': 'JSON makes life easier.', 'author': 'Eve'}
+2025-09-14 17:29:01 | INFO | Processed JSON message: {'message': 'JSON makes life easier.', 'author': 'Eve'}
+2025-09-14 17:29:01 | INFO | Message received from author: Eve
+2025-09-14 17:29:01 | INFO | Updated author counts: {'Eve': 33, 'Alice': 46, 'Charlie': 28, 'Diana': 51, 'Bob': 33}
+2025-09-14 17:29:02 | INFO | Sent message to topic 'buzzline_json': {'message': 'Buzz messages for everyone.', 'author': 'Diana'}
+2025-09-14 17:29:02 | INFO | Processed JSON message: {'message': 'Buzz messages for everyone.', 'author': 'Diana'}
+2025-09-14 17:29:02 | INFO | Message received from author: Diana
+2025-09-14 17:29:02 | INFO | Updated author counts: {'Eve': 33, 'Alice': 46, 'Charlie': 28, 'Diana': 52, 'Bob': 33}
+2025-09-14 17:29:03 | INFO | Sent message to topic 'buzzline_json': {'message': 'This is a buzz message.', 'author': 'Charlie'}
+2025-09-14 17:29:03 | INFO | Processed JSON message: {'message': 'This is a buzz message.', 'author': 'Charlie'}
+2025-09-14 17:29:03 | INFO | Message received from author: Charlie
+2025-09-14 17:29:03 | INFO | Updated author counts: {'Eve': 33, 'Alice': 46, 'Charlie': 29, 'Diana': 52, 'Bob': 33}
+2025-09-14 17:29:04 | INFO | Sent message to topic 'buzzline_json': {'message': 'Distributed systems are fascinating.', 'author': 'Charlie'}
+2025-09-14 17:29:04 | INFO | Processed JSON message: {'message': 'Distributed systems are fascinating.', 'author': 'Charlie'}
+2025-09-14 17:29:04 | INFO | Message received from author: Charlie
+2025-09-14 17:29:04 | INFO | Updated author counts: {'Eve': 33, 'Alice': 46, 'Charlie': 30, 'Diana': 52, 'Bob': 33}
+2025-09-14 17:29:05 | INFO | Sent message to topic 'buzzline_json': {'message': 'Buzz messages for everyone.', 'author': 'Bob'}
+2025-09-14 17:29:05 | INFO | Processed JSON message: {'message': 'Buzz messages for everyone.', 'author': 'Bob'}
+2025-09-14 17:29:05 | INFO | Message received from author: Bob
+2025-09-14 17:29:05 | INFO | Updated author counts: {'Eve': 33, 'Alice': 46, 'Charlie': 30, 'Diana': 52, 'Bob': 34}
+2025-09-14 17:29:06 | INFO | Sent message to topic 'buzzline_json': {'message': 'This is a buzz message.', 'author': 'Eve'}
+2025-09-14 17:29:06 | INFO | Processed JSON message: {'message': 'This is a buzz message.', 'author': 'Eve'}
+2025-09-14 17:29:06 | INFO | Message received from author: Eve
+2025-09-14 17:29:06 | INFO | Updated author counts: {'Eve': 34, 'Alice': 46, 'Charlie': 30, 'Diana': 52, 'Bob': 34}
+2025-09-14 17:29:07 | INFO | Sent message to topic 'buzzline_json': {'message': 'Data engineering is my passion.', 'author': 'Diana'}
+2025-09-14 17:29:07 | INFO | Processed JSON message: {'message': 'Data engineering is my passion.', 'author': 'Diana'}
+2025-09-14 17:29:07 | INFO | Message received from author: Diana
+2025-09-14 17:29:07 | INFO | Updated author counts: {'Eve': 34, 'Alice': 46, 'Charlie': 30, 'Diana': 53, 'Bob': 34}
+2025-09-14 17:29:08 | INFO | Sent message to topic 'buzzline_json': {'message': 'Data engineering is my passion.', 'author': 'Alice'}
+2025-09-14 17:29:08 | INFO | Processed JSON message: {'message': 'Data engineering is my passion.', 'author': 'Alice'}
+2025-09-14 17:29:08 | INFO | Message received from author: Alice
+2025-09-14 17:29:08 | INFO | Updated author counts: {'Eve': 34, 'Alice': 47, 'Charlie': 30, 'Diana': 53, 'Bob': 34}
+2025-09-14 17:29:09 | INFO | Sent message to topic 'buzzline_json': {'message': 'Buzz messages for everyone.', 'author': 'Diana'}
+2025-09-14 17:29:09 | INFO | Processed JSON message: {'message': 'Buzz messages for everyone.', 'author': 'Diana'}
+2025-09-14 17:29:09 | INFO | Message received from author: Diana
+2025-09-14 17:29:09 | INFO | Updated author counts: {'Eve': 34, 'Alice': 47, 'Charlie': 30, 'Diana': 54, 'Bob': 34}
+2025-09-14 17:29:10 | INFO | Sent message to topic 'buzzline_json': {'message': 'JSON makes life easier.', 'author': 'Alice'}
+2025-09-14 17:29:10 | INFO | Processed JSON message: {'message': 'JSON makes life easier.', 'author': 'Alice'}
+2025-09-14 17:29:10 | INFO | Message received from author: Alice
+2025-09-14 17:29:10 | INFO | Updated author counts: {'Eve': 34, 'Alice': 48, 'Charlie': 30, 'Diana': 54, 'Bob': 34}
+2025-09-14 17:29:11 | INFO | Opening data file in read mode: C:/Users/USER/Documents/44671 Streaming Data/buzzline-03-mcruz/data/buzz.json
+2025-09-14 17:29:11 | INFO | Reading data from file: C:/Users/USER/Documents/44671 Streaming Data/buzzline-03-mcruz/data/buzz.json
+2025-09-14 17:29:11 | INFO | Sent message to topic 'buzzline_json': {'message': 'Data engineering is my passion.', 'author': 'Eve'}
+2025-09-14 17:29:11 | INFO | Processed JSON message: {'message': 'Data engineering is my passion.', 'author': 'Eve'}
+2025-09-14 17:29:11 | INFO | Message received from author: Eve
+2025-09-14 17:29:11 | INFO | Updated author counts: {'Eve': 35, 'Alice': 48, 'Charlie': 30, 'Diana': 54, 'Bob': 34}
+2025-09-14 17:29:12 | INFO | Sent message to topic 'buzzline_json': {'message': 'Distributed systems are fascinating.', 'author': 'Alice'}
+2025-09-14 17:29:12 | INFO | Processed JSON message: {'message': 'Distributed systems are fascinating.', 'author': 'Alice'}
+2025-09-14 17:29:12 | INFO | Message received from author: Alice
+2025-09-14 17:29:12 | INFO | Updated author counts: {'Eve': 35, 'Alice': 49, 'Charlie': 30, 'Diana': 54, 'Bob': 34}
+2025-09-14 17:29:13 | INFO | Sent message to topic 'buzzline_json': {'message': 'Have a great day!', 'author': 'Charlie'}
+2025-09-14 17:29:13 | INFO | Processed JSON message: {'message': 'Have a great day!', 'author': 'Charlie'}
+2025-09-14 17:29:13 | INFO | Message received from author: Charlie
+2025-09-14 17:29:13 | INFO | Updated author counts: {'Eve': 35, 'Alice': 49, 'Charlie': 31, 'Diana': 54, 'Bob': 34}
+2025-09-14 17:29:14 | INFO | Sent message to topic 'buzzline_json': {'message': 'Data engineering is my passion.', 'author': 'Alice'}
+2025-09-14 17:29:14 | INFO | Processed JSON message: {'message': 'Data engineering is my passion.', 'author': 'Alice'}
+2025-09-14 17:29:14 | INFO | Message received from author: Alice
+2025-09-14 17:29:14 | INFO | Updated author counts: {'Eve': 35, 'Alice': 50, 'Charlie': 31, 'Diana': 54, 'Bob': 34}
+2025-09-14 17:29:15 | INFO | Sent message to topic 'buzzline_json': {'message': 'Distributed systems are fascinating.', 'author': 'Diana'}
+2025-09-14 17:29:15 | INFO | Processed JSON message: {'message': 'Distributed systems are fascinating.', 'author': 'Diana'}
+2025-09-14 17:29:15 | INFO | Message received from author: Diana
+2025-09-14 17:29:15 | INFO | Updated author counts: {'Eve': 35, 'Alice': 50, 'Charlie': 31, 'Diana': 55, 'Bob': 34}
+2025-09-14 17:29:16 | INFO | Sent message to topic 'buzzline_json': {'message': 'Buzz messages for everyone.', 'author': 'Alice'}
+2025-09-14 17:29:16 | INFO | Processed JSON message: {'message': 'Buzz messages for everyone.', 'author': 'Alice'}
+2025-09-14 17:29:16 | INFO | Message received from author: Alice
+2025-09-14 17:29:16 | INFO | Updated author counts: {'Eve': 35, 'Alice': 51, 'Charlie': 31, 'Diana': 55, 'Bob': 34}
+2025-09-14 17:29:17 | INFO | Sent message to topic 'buzzline_json': {'message': 'Hello, Kafka world!', 'author': 'Diana'}
+2025-09-14 17:29:17 | INFO | Processed JSON message: {'message': 'Hello, Kafka world!', 'author': 'Diana'}
+2025-09-14 17:29:17 | INFO | Message received from author: Diana
+2025-09-14 17:29:17 | INFO | Updated author counts: {'Eve': 35, 'Alice': 51, 'Charlie': 31, 'Diana': 56, 'Bob': 34}
+2025-09-14 17:29:18 | INFO | Sent message to topic 'buzzline_json': {'message': 'This is a buzz message.', 'author': 'Eve'}
+2025-09-14 17:29:18 | INFO | Processed JSON message: {'message': 'This is a buzz message.', 'author': 'Eve'}
+2025-09-14 17:29:18 | INFO | Message received from author: Eve
+2025-09-14 17:29:18 | INFO | Updated author counts: {'Eve': 36, 'Alice': 51, 'Charlie': 31, 'Diana': 56, 'Bob': 34}
+2025-09-14 17:29:19 | INFO | Sent message to topic 'buzzline_json': {'message': 'JSON makes life easier.', 'author': 'Eve'}
+2025-09-14 17:29:19 | INFO | Processed JSON message: {'message': 'JSON makes life easier.', 'author': 'Eve'}
+2025-09-14 17:29:19 | INFO | Message received from author: Eve
+2025-09-14 17:29:19 | INFO | Updated author counts: {'Eve': 37, 'Alice': 51, 'Charlie': 31, 'Diana': 56, 'Bob': 34}
+2025-09-14 17:29:20 | INFO | Sent message to topic 'buzzline_json': {'message': 'JSON makes life easier.', 'author': 'Alice'}
+2025-09-14 17:29:20 | INFO | Processed JSON message: {'message': 'JSON makes life easier.', 'author': 'Alice'}
+2025-09-14 17:29:20 | INFO | Message received from author: Alice
+2025-09-14 17:29:20 | INFO | Updated author counts: {'Eve': 37, 'Alice': 52, 'Charlie': 31, 'Diana': 56, 'Bob': 34}
+2025-09-14 17:29:21 | INFO | Sent message to topic 'buzzline_json': {'message': 'Data engineering is my passion.', 'author': 'Diana'}
+2025-09-14 17:29:21 | INFO | Processed JSON message: {'message': 'Data engineering is my passion.', 'author': 'Diana'}
+2025-09-14 17:29:21 | INFO | Message received from author: Diana
+2025-09-14 17:29:21 | INFO | Updated author counts: {'Eve': 37, 'Alice': 52, 'Charlie': 31, 'Diana': 57, 'Bob': 34}
+2025-09-14 17:29:22 | INFO | Sent message to topic 'buzzline_json': {'message': 'JSON makes life easier.', 'author': 'Diana'}
+2025-09-14 17:29:22 | INFO | Processed JSON message: {'message': 'JSON makes life easier.', 'author': 'Diana'}
+2025-09-14 17:29:22 | INFO | Message received from author: Diana
+2025-09-14 17:29:22 | INFO | Updated author counts: {'Eve': 37, 'Alice': 52, 'Charlie': 31, 'Diana': 58, 'Bob': 34}
+2025-09-14 17:29:23 | INFO | Sent message to topic 'buzzline_json': {'message': 'Kafka is awesome.', 'author': 'Charlie'}
+2025-09-14 17:29:23 | INFO | Processed JSON message: {'message': 'Kafka is awesome.', 'author': 'Charlie'}
+2025-09-14 17:29:23 | INFO | Message received from author: Charlie
+2025-09-14 17:29:23 | INFO | Updated author counts: {'Eve': 37, 'Alice': 52, 'Charlie': 32, 'Diana': 58, 'Bob': 34}
+2025-09-14 17:29:24 | INFO | Sent message to topic 'buzzline_json': {'message': 'JSON makes life easier.', 'author': 'Bob'}
+2025-09-14 17:29:24 | INFO | Processed JSON message: {'message': 'JSON makes life easier.', 'author': 'Bob'}
+2025-09-14 17:29:24 | INFO | Message received from author: Bob
+2025-09-14 17:29:24 | INFO | Updated author counts: {'Eve': 37, 'Alice': 52, 'Charlie': 32, 'Diana': 58, 'Bob': 35}
+2025-09-14 17:29:25 | INFO | Sent message to topic 'buzzline_json': {'message': 'I love Python!', 'author': 'Bob'}
+2025-09-14 17:29:25 | INFO | Processed JSON message: {'message': 'I love Python!', 'author': 'Bob'}
+2025-09-14 17:29:25 | INFO | Message received from author: Bob
+2025-09-14 17:29:25 | INFO | Updated author counts: {'Eve': 37, 'Alice': 52, 'Charlie': 32, 'Diana': 58, 'Bob': 36}
+2025-09-14 17:29:26 | INFO | Sent message to topic 'buzzline_json': {'message': 'This is a buzz message.', 'author': 'Eve'}
+2025-09-14 17:29:26 | INFO | Processed JSON message: {'message': 'This is a buzz message.', 'author': 'Eve'}
+2025-09-14 17:29:26 | INFO | Message received from author: Eve
+2025-09-14 17:29:26 | INFO | Updated author counts: {'Eve': 38, 'Alice': 52, 'Charlie': 32, 'Diana': 58, 'Bob': 36}
+2025-09-14 17:29:27 | INFO | Sent message to topic 'buzzline_json': {'message': 'I love Python!', 'author': 'Eve'}
+2025-09-14 17:29:27 | INFO | Processed JSON message: {'message': 'I love Python!', 'author': 'Eve'}
+2025-09-14 17:29:27 | INFO | Message received from author: Eve
+2025-09-14 17:29:27 | INFO | Updated author counts: {'Eve': 39, 'Alice': 52, 'Charlie': 32, 'Diana': 58, 'Bob': 36}
+2025-09-14 17:29:28 | INFO | Sent message to topic 'buzzline_json': {'message': 'Buzz messages for everyone.', 'author': 'Alice'}
+2025-09-14 17:29:28 | INFO | Processed JSON message: {'message': 'Buzz messages for everyone.', 'author': 'Alice'}
+2025-09-14 17:29:28 | INFO | Message received from author: Alice
+2025-09-14 17:29:28 | INFO | Updated author counts: {'Eve': 39, 'Alice': 53, 'Charlie': 32, 'Diana': 58, 'Bob': 36}
+2025-09-14 17:29:29 | INFO | Sent message to topic 'buzzline_json': {'message': 'This is a buzz message.', 'author': 'Alice'}
+2025-09-14 17:29:29 | INFO | Processed JSON message: {'message': 'This is a buzz message.', 'author': 'Alice'}
+2025-09-14 17:29:29 | INFO | Message received from author: Alice
+2025-09-14 17:29:29 | INFO | Updated author counts: {'Eve': 39, 'Alice': 54, 'Charlie': 32, 'Diana': 58, 'Bob': 36}
+2025-09-14 17:29:30 | INFO | Sent message to topic 'buzzline_json': {'message': 'Data engineering is my passion.', 'author': 'Diana'}
+2025-09-14 17:29:30 | INFO | Processed JSON message: {'message': 'Data engineering is my passion.', 'author': 'Diana'}
+2025-09-14 17:29:30 | INFO | Message received from author: Diana
+2025-09-14 17:29:30 | INFO | Updated author counts: {'Eve': 39, 'Alice': 54, 'Charlie': 32, 'Diana': 59, 'Bob': 36}
+2025-09-14 17:29:31 | INFO | Sent message to topic 'buzzline_json': {'message': 'I love Python!', 'author': 'Eve'}
+2025-09-14 17:29:31 | INFO | Processed JSON message: {'message': 'I love Python!', 'author': 'Eve'}
+2025-09-14 17:29:31 | INFO | Message received from author: Eve
+2025-09-14 17:29:31 | INFO | Updated author counts: {'Eve': 40, 'Alice': 54, 'Charlie': 32, 'Diana': 59, 'Bob': 36}
+2025-09-14 17:29:31 | WARNING | Producer interrupted by user.
+2025-09-14 17:29:31 | INFO | Kafka producer closed.
+2025-09-14 17:29:31 | INFO | END producer.
+2025-09-14 17:29:33 | WARNING | Consumer interrupted by user.
+2025-09-14 17:29:33 | INFO | Kafka consumer for topic 'buzzline_json' closed.
+2025-09-14 17:29:33 | INFO | END consumer for topic 'buzzline_json' and group 'buzz_group'.
+2025-09-14 19:37:13 | INFO | Logging to file: logs/project_log.log
+2025-09-14 19:37:13 | INFO | Log sanitization enabled, personal info removed
+2025-09-14 19:37:13 | INFO | Project root: C:/Users/USER/Documents/44671 Streaming Data/buzzline-03-mcruz
+2025-09-14 19:37:13 | INFO | Data folder: C:/Users/USER/Documents/44671 Streaming Data/buzzline-03-mcruz/data
+2025-09-14 19:37:13 | INFO | Data file: C:/Users/USER/Documents/44671 Streaming Data/buzzline-03-mcruz/data/buzz.json
+2025-09-14 19:37:13 | INFO | START producer.
+2025-09-14 19:37:13 | INFO | Kafka broker address: localhost:9092
+2025-09-14 19:37:13 | INFO | Kafka is ready. Brokers: {'throttle_time_ms': 0, 'brokers': [{'node_id': 1, 'host': 'localhost', 'port': 9092, 'rack': None}], 'cluster_id': 'vFqzhTEhQa6aR7me4AZZ3g', 'controller_id': 1}
+2025-09-14 19:37:13 | INFO | Kafka topic: buzzline_json
+2025-09-14 19:37:13 | INFO | Message interval: 1 seconds
+2025-09-14 19:37:13 | INFO | Kafka broker address: localhost:9092
+2025-09-14 19:37:13 | INFO | Connecting to Kafka broker at localhost:9092...
+2025-09-14 19:37:13 | INFO | Kafka producer successfully created.
+2025-09-14 19:37:13 | INFO | Kafka broker address: localhost:9092
+2025-09-14 19:37:13 | INFO | Topic 'buzzline_json' already exists. Recreating fresh...
+2025-09-14 19:37:14 | INFO | Requested deletion of topic 'buzzline_json'.
+2025-09-14 19:37:14 | INFO | Topic 'buzzline_json' created successfully.
+2025-09-14 19:37:14 | INFO | Kafka topic 'buzzline_json' is ready.
+2025-09-14 19:37:14 | INFO | Starting message production to topic 'buzzline_json'...
+2025-09-14 19:37:14 | INFO | Opening data file in read mode: C:/Users/USER/Documents/44671 Streaming Data/buzzline-03-mcruz/data/buzz.json
+2025-09-14 19:37:14 | INFO | Reading data from file: C:/Users/USER/Documents/44671 Streaming Data/buzzline-03-mcruz/data/buzz.json
+2025-09-14 19:37:14 | INFO | Sent message to topic 'buzzline_json': {'message': 'Data engineering is my passion.', 'author': 'Eve'}
+2025-09-14 19:37:15 | INFO | Sent message to topic 'buzzline_json': {'message': 'Distributed systems are fascinating.', 'author': 'Alice'}
+2025-09-14 19:37:16 | INFO | Sent message to topic 'buzzline_json': {'message': 'Have a great day!', 'author': 'Charlie'}
+2025-09-14 19:37:17 | INFO | Sent message to topic 'buzzline_json': {'message': 'Data engineering is my passion.', 'author': 'Alice'}
+2025-09-14 19:37:18 | INFO | Sent message to topic 'buzzline_json': {'message': 'Distributed systems are fascinating.', 'author': 'Diana'}
+2025-09-14 19:37:19 | INFO | Sent message to topic 'buzzline_json': {'message': 'Buzz messages for everyone.', 'author': 'Alice'}
+2025-09-14 19:37:19 | WARNING | Producer interrupted by user.
+2025-09-14 19:37:19 | INFO | Kafka producer closed.
+2025-09-14 19:37:19 | INFO | END producer.
+2025-09-14 19:37:54 | INFO | Logging to file: logs/project_log.log
+2025-09-14 19:37:54 | INFO | Log sanitization enabled, personal info removed
+2025-09-14 19:37:54 | INFO | START producer.
+2025-09-14 19:37:54 | INFO | Kafka topic: smoker_csv
+2025-09-14 19:37:54 | INFO | Kafka broker address: localhost:9092
+2025-09-14 19:37:54 | INFO | Connecting to Kafka broker at localhost:9092...
+2025-09-14 19:37:54 | INFO | Kafka producer successfully created.
+2025-09-14 19:37:54 | INFO | WNBA DataFrame created.
+2025-09-14 19:37:54 | INFO | Produced message: {"timestamp": "2025-09-15T00:37:54Z", "player": "Breanna Stewart", "team": "New York Liberty", "ppg": 23.1, "rpg": 9.2, "apg": 3.8}
+2025-09-14 19:37:56 | INFO | Produced message: {"timestamp": "2025-09-15T00:37:56Z", "player": "Breanna Stewart", "team": "New York Liberty", "ppg": 23.1, "rpg": 9.2, "apg": 3.8}
+2025-09-14 19:37:58 | INFO | Produced message: {"timestamp": "2025-09-15T00:37:58Z", "player": "Kelsey Plum", "team": "Las Vegas Aces", "ppg": 18.7, "rpg": 2.3, "apg": 4.0}
+2025-09-14 19:38:00 | INFO | Produced message: {"timestamp": "2025-09-15T00:38:00Z", "player": "Kelsey Plum", "team": "Las Vegas Aces", "ppg": 18.7, "rpg": 2.3, "apg": 4.0}
+2025-09-14 19:38:02 | INFO | Produced message: {"timestamp": "2025-09-15T00:38:02Z", "player": "Sabrina Ionescu", "team": "New York Liberty", "ppg": 17.0, "rpg": 5.8, "apg": 6.3}
+2025-09-14 19:38:05 | INFO | Produced message: {"timestamp": "2025-09-15T00:38:05Z", "player": "Elena Delle Donne", "team": "Washington Mystics", "ppg": 16.5, "rpg": 6.8, "apg": 2.1}
+2025-09-14 19:38:07 | INFO | Produced message: {"timestamp": "2025-09-15T00:38:07Z", "player": "Breanna Stewart", "team": "New York Liberty", "ppg": 23.1, "rpg": 9.2, "apg": 3.8}
+2025-09-14 19:38:08 | INFO | Produced message: {"timestamp": "2025-09-15T00:38:08Z", "player": "Arike Ogunbowale", "team": "Dallas Wings", "ppg": 21.2, "rpg": 3.9, "apg": 3.7}
+2025-09-14 19:38:09 | INFO | Produced message: {"timestamp": "2025-09-15T00:38:09Z", "player": "Jewell Loyd", "team": "Seattle Storm", "ppg": 24.7, "rpg": 4.5, "apg": 3.2}
+2025-09-14 19:38:10 | INFO | Produced message: {"timestamp": "2025-09-15T00:38:10Z", "player": "Elena Delle Donne", "team": "Washington Mystics", "ppg": 16.5, "rpg": 6.8, "apg": 2.1}
+2025-09-14 19:38:13 | INFO | Produced message: {"timestamp": "2025-09-15T00:38:13Z", "player": "Jewell Loyd", "team": "Seattle Storm", "ppg": 24.7, "rpg": 4.5, "apg": 3.2}
+2025-09-14 19:38:13 | WARNING | Producer interrupted by user.
+2025-09-14 19:38:13 | INFO | Kafka producer for topic 'smoker_csv' closed.
+2025-09-14 19:39:42 | INFO | Logging to file: logs/project_log.log
+2025-09-14 19:39:42 | INFO | Log sanitization enabled, personal info removed
+2025-09-14 19:39:42 | INFO | START producer.
+2025-09-14 19:39:42 | INFO | Kafka topic: smoker_csv
+2025-09-14 19:39:42 | INFO | Kafka broker address: localhost:9092
+2025-09-14 19:39:42 | INFO | Connecting to Kafka broker at localhost:9092...
+2025-09-14 19:39:42 | INFO | Kafka producer successfully created.
+2025-09-14 19:39:42 | INFO | WNBA DataFrame created.
+2025-09-14 19:39:42 | INFO | Produced message: {"timestamp": "2025-09-15T00:39:42Z", "player": "Sabrina Ionescu", "team": "New York Liberty", "ppg": 17.0, "rpg": 5.8, "apg": 6.3}
+2025-09-14 19:39:44 | INFO | Produced message: {"timestamp": "2025-09-15T00:39:44Z", "player": "Sabrina Ionescu", "team": "New York Liberty", "ppg": 17.0, "rpg": 5.8, "apg": 6.3}
+2025-09-14 19:39:47 | INFO | Produced message: {"timestamp": "2025-09-15T00:39:47Z", "player": "Kelsey Plum", "team": "Las Vegas Aces", "ppg": 18.7, "rpg": 2.3, "apg": 4.0}
+2025-09-14 19:39:48 | INFO | Produced message: {"timestamp": "2025-09-15T00:39:48Z", "player": "Kelsey Plum", "team": "Las Vegas Aces", "ppg": 18.7, "rpg": 2.3, "apg": 4.0}
+2025-09-14 19:39:50 | INFO | Produced message: {"timestamp": "2025-09-15T00:39:50Z", "player": "Jewell Loyd", "team": "Seattle Storm", "ppg": 24.7, "rpg": 4.5, "apg": 3.2}
+2025-09-14 19:39:51 | INFO | Produced message: {"timestamp": "2025-09-15T00:39:51Z", "player": "Nneka Ogwumike", "team": "Seattle Storm", "ppg": 19.3, "rpg": 8.7, "apg": 2.5}
+2025-09-14 19:39:54 | INFO | Produced message: {"timestamp": "2025-09-15T00:39:54Z", "player": "Elena Delle Donne", "team": "Washington Mystics", "ppg": 16.5, "rpg": 6.8, "apg": 2.1}
+2025-09-14 19:39:55 | INFO | Produced message: {"timestamp": "2025-09-15T00:39:55Z", "player": "Breanna Stewart", "team": "New York Liberty", "ppg": 23.1, "rpg": 9.2, "apg": 3.8}
+2025-09-14 19:39:57 | INFO | Produced message: {"timestamp": "2025-09-15T00:39:57Z", "player": "Nneka Ogwumike", "team": "Seattle Storm", "ppg": 19.3, "rpg": 8.7, "apg": 2.5}
+2025-09-14 19:39:59 | INFO | Produced message: {"timestamp": "2025-09-15T00:39:59Z", "player": "Kelsey Plum", "team": "Las Vegas Aces", "ppg": 18.7, "rpg": 2.3, "apg": 4.0}
+2025-09-14 19:40:00 | INFO | Produced message: {"timestamp": "2025-09-15T00:40:00Z", "player": "Breanna Stewart", "team": "New York Liberty", "ppg": 23.1, "rpg": 9.2, "apg": 3.8}
+2025-09-14 19:40:03 | INFO | Produced message: {"timestamp": "2025-09-15T00:40:03Z", "player": "Kelsey Plum", "team": "Las Vegas Aces", "ppg": 18.7, "rpg": 2.3, "apg": 4.0}
+2025-09-14 19:40:05 | INFO | Produced message: {"timestamp": "2025-09-15T00:40:05Z", "player": "Kelsey Plum", "team": "Las Vegas Aces", "ppg": 18.7, "rpg": 2.3, "apg": 4.0}
+2025-09-14 19:40:07 | INFO | Produced message: {"timestamp": "2025-09-15T00:40:07Z", "player": "Jewell Loyd", "team": "Seattle Storm", "ppg": 24.7, "rpg": 4.5, "apg": 3.2}
+2025-09-14 19:40:09 | INFO | Produced message: {"timestamp": "2025-09-15T00:40:09Z", "player": "Kelsey Plum", "team": "Las Vegas Aces", "ppg": 18.7, "rpg": 2.3, "apg": 4.0}
+2025-09-14 19:40:10 | INFO | Logging to file: logs/project_log.log
+2025-09-14 19:40:10 | INFO | Log sanitization enabled, personal info removed
+2025-09-14 19:40:10 | INFO | START WNBA consumer.
+2025-09-14 19:40:10 | INFO | Kafka topic: smoker_csv
+2025-09-14 19:40:10 | INFO | Kafka consumer group id: smoker_group
+2025-09-14 19:40:10 | INFO | Rolling window size: 5
+2025-09-14 19:40:10 | INFO | Kafka broker address: localhost:9092
+2025-09-14 19:40:10 | INFO | Creating Kafka consumer. Topic='smoker_csv' and group ID='smoker_group'.
+2025-09-14 19:40:10 | INFO | Kafka consumer created successfully.
+2025-09-14 19:40:10 | INFO | Polling messages from topic 'smoker_csv'...
+2025-09-14 19:40:12 | INFO | Produced message: {"timestamp": "2025-09-15T00:40:12Z", "player": "A'ja Wilson", "team": "Las Vegas Aces", "ppg": 22.8, "rpg": 9.5, "apg": 2.1}
+2025-09-14 19:40:13 | ERROR | Invalid message format: {"timestamp": "2025-09-14T22:23:43.890465", "temperature": 70.8}
+2025-09-14 19:40:13 | INFO | Received Breanna Stewart (New York Liberty) - 23.1 PPG at 2025-09-15T00:37:54Z
+2025-09-14 19:40:13 | INFO | Received Breanna Stewart (New York Liberty) - 23.1 PPG at 2025-09-15T00:37:56Z
+2025-09-14 19:40:13 | INFO | Received Kelsey Plum (Las Vegas Aces) - 18.7 PPG at 2025-09-15T00:37:58Z
+2025-09-14 19:40:13 | INFO | Received Kelsey Plum (Las Vegas Aces) - 18.7 PPG at 2025-09-15T00:38:00Z
+2025-09-14 19:40:13 | INFO | Received Sabrina Ionescu (New York Liberty) - 17.0 PPG at 2025-09-15T00:38:02Z
+2025-09-14 19:40:13 | INFO | Hot streak threshold: 20.0 PPG
+2025-09-14 19:40:13 | INFO | HOT STREAK! Sabrina Ionescu averaging 20.1 PPG over last 5 games.
+2025-09-14 19:40:13 | INFO | Received Elena Delle Donne (Washington Mystics) - 16.5 PPG at 2025-09-15T00:38:05Z
+2025-09-14 19:40:13 | INFO | Hot streak threshold: 20.0 PPG
+2025-09-14 19:40:13 | INFO | Received Breanna Stewart (New York Liberty) - 23.1 PPG at 2025-09-15T00:38:07Z
+2025-09-14 19:40:13 | INFO | Hot streak threshold: 20.0 PPG
+2025-09-14 19:40:13 | INFO | Received Arike Ogunbowale (Dallas Wings) - 21.2 PPG at 2025-09-15T00:38:08Z
+2025-09-14 19:40:13 | INFO | Hot streak threshold: 20.0 PPG
+2025-09-14 19:40:13 | INFO | Received Jewell Loyd (Seattle Storm) - 24.7 PPG at 2025-09-15T00:38:09Z
+2025-09-14 19:40:13 | INFO | Hot streak threshold: 20.0 PPG
+2025-09-14 19:40:13 | INFO | HOT STREAK! Jewell Loyd averaging 20.5 PPG over last 5 games.
+2025-09-14 19:40:13 | INFO | Received Elena Delle Donne (Washington Mystics) - 16.5 PPG at 2025-09-15T00:38:10Z
+2025-09-14 19:40:13 | INFO | Hot streak threshold: 20.0 PPG
+2025-09-14 19:40:13 | INFO | HOT STREAK! Elena Delle Donne averaging 20.4 PPG over last 5 games.
+2025-09-14 19:40:13 | INFO | Received Jewell Loyd (Seattle Storm) - 24.7 PPG at 2025-09-15T00:38:13Z
+2025-09-14 19:40:13 | INFO | Hot streak threshold: 20.0 PPG
+2025-09-14 19:40:13 | INFO | HOT STREAK! Jewell Loyd averaging 22.0 PPG over last 5 games.
+2025-09-14 19:40:13 | INFO | Received Sabrina Ionescu (New York Liberty) - 17.0 PPG at 2025-09-15T00:39:42Z
+2025-09-14 19:40:13 | INFO | Hot streak threshold: 20.0 PPG
+2025-09-14 19:40:13 | INFO | HOT STREAK! Sabrina Ionescu averaging 20.8 PPG over last 5 games.
+2025-09-14 19:40:13 | INFO | Received Sabrina Ionescu (New York Liberty) - 17.0 PPG at 2025-09-15T00:39:44Z
+2025-09-14 19:40:13 | INFO | Hot streak threshold: 20.0 PPG
+2025-09-14 19:40:13 | INFO | Received Kelsey Plum (Las Vegas Aces) - 18.7 PPG at 2025-09-15T00:39:47Z
+2025-09-14 19:40:13 | INFO | Hot streak threshold: 20.0 PPG
+2025-09-14 19:40:13 | INFO | Received Kelsey Plum (Las Vegas Aces) - 18.7 PPG at 2025-09-15T00:39:48Z
+2025-09-14 19:40:13 | INFO | Hot streak threshold: 20.0 PPG
+2025-09-14 19:40:13 | INFO | Received Jewell Loyd (Seattle Storm) - 24.7 PPG at 2025-09-15T00:39:50Z
+2025-09-14 19:40:13 | INFO | Hot streak threshold: 20.0 PPG
+2025-09-14 19:40:13 | INFO | Received Nneka Ogwumike (Seattle Storm) - 19.3 PPG at 2025-09-15T00:39:51Z
+2025-09-14 19:40:13 | INFO | Hot streak threshold: 20.0 PPG
+2025-09-14 19:40:13 | INFO | Received Elena Delle Donne (Washington Mystics) - 16.5 PPG at 2025-09-15T00:39:54Z
+2025-09-14 19:40:13 | INFO | Hot streak threshold: 20.0 PPG
+2025-09-14 19:40:13 | INFO | Received Breanna Stewart (New York Liberty) - 23.1 PPG at 2025-09-15T00:39:55Z
+2025-09-14 19:40:13 | INFO | Hot streak threshold: 20.0 PPG
+2025-09-14 19:40:13 | INFO | HOT STREAK! Breanna Stewart averaging 20.5 PPG over last 5 games.
+2025-09-14 19:40:13 | INFO | Received Nneka Ogwumike (Seattle Storm) - 19.3 PPG at 2025-09-15T00:39:57Z
+2025-09-14 19:40:13 | INFO | Hot streak threshold: 20.0 PPG
+2025-09-14 19:40:13 | INFO | HOT STREAK! Nneka Ogwumike averaging 20.6 PPG over last 5 games.
+2025-09-14 19:40:13 | INFO | Received Kelsey Plum (Las Vegas Aces) - 18.7 PPG at 2025-09-15T00:39:59Z
+2025-09-14 19:40:13 | INFO | Hot streak threshold: 20.0 PPG
+2025-09-14 19:40:13 | INFO | Received Breanna Stewart (New York Liberty) - 23.1 PPG at 2025-09-15T00:40:00Z
+2025-09-14 19:40:13 | INFO | Hot streak threshold: 20.0 PPG
+2025-09-14 19:40:13 | INFO | HOT STREAK! Breanna Stewart averaging 20.1 PPG over last 5 games.
+2025-09-14 19:40:13 | INFO | Received Kelsey Plum (Las Vegas Aces) - 18.7 PPG at 2025-09-15T00:40:03Z
+2025-09-14 19:40:13 | INFO | Hot streak threshold: 20.0 PPG
+2025-09-14 19:40:13 | INFO | HOT STREAK! Kelsey Plum averaging 20.6 PPG over last 5 games.
+2025-09-14 19:40:13 | INFO | Received Kelsey Plum (Las Vegas Aces) - 18.7 PPG at 2025-09-15T00:40:05Z
+2025-09-14 19:40:13 | INFO | Hot streak threshold: 20.0 PPG
+2025-09-14 19:40:13 | INFO | Received Jewell Loyd (Seattle Storm) - 24.7 PPG at 2025-09-15T00:40:07Z
+2025-09-14 19:40:13 | INFO | Hot streak threshold: 20.0 PPG
+2025-09-14 19:40:13 | INFO | HOT STREAK! Jewell Loyd averaging 20.8 PPG over last 5 games.
+2025-09-14 19:40:13 | INFO | Received Kelsey Plum (Las Vegas Aces) - 18.7 PPG at 2025-09-15T00:40:09Z
+2025-09-14 19:40:13 | INFO | Hot streak threshold: 20.0 PPG
+2025-09-14 19:40:13 | INFO | HOT STREAK! Kelsey Plum averaging 20.8 PPG over last 5 games.
+2025-09-14 19:40:13 | INFO | Received A'ja Wilson (Las Vegas Aces) - 22.8 PPG at 2025-09-15T00:40:12Z
+2025-09-14 19:40:13 | INFO | Hot streak threshold: 20.0 PPG
+2025-09-14 19:40:13 | INFO | HOT STREAK! A'ja Wilson averaging 20.7 PPG over last 5 games.
+2025-09-14 19:40:14 | INFO | Produced message: {"timestamp": "2025-09-15T00:40:14Z", "player": "Breanna Stewart", "team": "New York Liberty", "ppg": 23.1, "rpg": 9.2, "apg": 3.8}
+2025-09-14 19:40:14 | INFO | Received Breanna Stewart (New York Liberty) - 23.1 PPG at 2025-09-15T00:40:14Z
+2025-09-14 19:40:14 | INFO | Hot streak threshold: 20.0 PPG
+2025-09-14 19:40:14 | INFO | HOT STREAK! Breanna Stewart averaging 21.6 PPG over last 5 games.
+2025-09-14 19:40:16 | INFO | Produced message: {"timestamp": "2025-09-15T00:40:16Z", "player": "Sabrina Ionescu", "team": "New York Liberty", "ppg": 17.0, "rpg": 5.8, "apg": 6.3}
+2025-09-14 19:40:16 | INFO | Received Sabrina Ionescu (New York Liberty) - 17.0 PPG at 2025-09-15T00:40:16Z
+2025-09-14 19:40:16 | INFO | Hot streak threshold: 20.0 PPG
+2025-09-14 19:40:16 | INFO | HOT STREAK! Sabrina Ionescu averaging 21.3 PPG over last 5 games.
+2025-09-14 19:40:19 | INFO | Produced message: {"timestamp": "2025-09-15T00:40:19Z", "player": "Elena Delle Donne", "team": "Washington Mystics", "ppg": 16.5, "rpg": 6.8, "apg": 2.1}
+2025-09-14 19:40:19 | INFO | Received Elena Delle Donne (Washington Mystics) - 16.5 PPG at 2025-09-15T00:40:19Z
+2025-09-14 19:40:19 | INFO | Hot streak threshold: 20.0 PPG
+2025-09-14 19:40:21 | INFO | Produced message: {"timestamp": "2025-09-15T00:40:21Z", "player": "A'ja Wilson", "team": "Las Vegas Aces", "ppg": 22.8, "rpg": 9.5, "apg": 2.1}
+2025-09-14 19:40:21 | INFO | Received A'ja Wilson (Las Vegas Aces) - 22.8 PPG at 2025-09-15T00:40:21Z
+2025-09-14 19:40:21 | INFO | Hot streak threshold: 20.0 PPG
+2025-09-14 19:40:21 | INFO | HOT STREAK! A'ja Wilson averaging 20.4 PPG over last 5 games.
+2025-09-14 19:40:24 | INFO | Produced message: {"timestamp": "2025-09-15T00:40:24Z", "player": "Sabrina Ionescu", "team": "New York Liberty", "ppg": 17.0, "rpg": 5.8, "apg": 6.3}
+2025-09-14 19:40:24 | INFO | Received Sabrina Ionescu (New York Liberty) - 17.0 PPG at 2025-09-15T00:40:24Z
+2025-09-14 19:40:24 | INFO | Hot streak threshold: 20.0 PPG
+2025-09-14 19:40:27 | INFO | Produced message: {"timestamp": "2025-09-15T00:40:27Z", "player": "Jewell Loyd", "team": "Seattle Storm", "ppg": 24.7, "rpg": 4.5, "apg": 3.2}
+2025-09-14 19:40:27 | INFO | Received Jewell Loyd (Seattle Storm) - 24.7 PPG at 2025-09-15T00:40:27Z
+2025-09-14 19:40:27 | INFO | Hot streak threshold: 20.0 PPG
+2025-09-14 19:40:28 | INFO | Produced message: {"timestamp": "2025-09-15T00:40:28Z", "player": "Sabrina Ionescu", "team": "New York Liberty", "ppg": 17.0, "rpg": 5.8, "apg": 6.3}
+2025-09-14 19:40:28 | INFO | Received Sabrina Ionescu (New York Liberty) - 17.0 PPG at 2025-09-15T00:40:28Z
+2025-09-14 19:40:28 | INFO | Hot streak threshold: 20.0 PPG
+2025-09-14 19:40:30 | INFO | Produced message: {"timestamp": "2025-09-15T00:40:30Z", "player": "Arike Ogunbowale", "team": "Dallas Wings", "ppg": 21.2, "rpg": 3.9, "apg": 3.7}
+2025-09-14 19:40:30 | INFO | Received Arike Ogunbowale (Dallas Wings) - 21.2 PPG at 2025-09-15T00:40:30Z
+2025-09-14 19:40:30 | INFO | Hot streak threshold: 20.0 PPG
+2025-09-14 19:40:30 | INFO | HOT STREAK! Arike Ogunbowale averaging 20.5 PPG over last 5 games.
+2025-09-14 19:40:32 | INFO | Produced message: {"timestamp": "2025-09-15T00:40:32Z", "player": "A'ja Wilson", "team": "Las Vegas Aces", "ppg": 22.8, "rpg": 9.5, "apg": 2.1}
+2025-09-14 19:40:32 | INFO | Received A'ja Wilson (Las Vegas Aces) - 22.8 PPG at 2025-09-15T00:40:32Z
+2025-09-14 19:40:32 | INFO | Hot streak threshold: 20.0 PPG
+2025-09-14 19:40:32 | INFO | HOT STREAK! A'ja Wilson averaging 20.5 PPG over last 5 games.
+2025-09-14 19:40:34 | INFO | Produced message: {"timestamp": "2025-09-15T00:40:34Z", "player": "Elena Delle Donne", "team": "Washington Mystics", "ppg": 16.5, "rpg": 6.8, "apg": 2.1}
+2025-09-14 19:40:34 | INFO | Received Elena Delle Donne (Washington Mystics) - 16.5 PPG at 2025-09-15T00:40:34Z
+2025-09-14 19:40:34 | INFO | Hot streak threshold: 20.0 PPG
+2025-09-14 19:40:34 | INFO | HOT STREAK! Elena Delle Donne averaging 20.4 PPG over last 5 games.
+2025-09-14 19:40:36 | INFO | Produced message: {"timestamp": "2025-09-15T00:40:36Z", "player": "A'ja Wilson", "team": "Las Vegas Aces", "ppg": 22.8, "rpg": 9.5, "apg": 2.1}
+2025-09-14 19:40:36 | INFO | Received A'ja Wilson (Las Vegas Aces) - 22.8 PPG at 2025-09-15T00:40:36Z
+2025-09-14 19:40:36 | INFO | Hot streak threshold: 20.0 PPG
+2025-09-14 19:40:36 | INFO | HOT STREAK! A'ja Wilson averaging 20.1 PPG over last 5 games.
+2025-09-14 19:40:38 | INFO | Produced message: {"timestamp": "2025-09-15T00:40:38Z", "player": "Arike Ogunbowale", "team": "Dallas Wings", "ppg": 21.2, "rpg": 3.9, "apg": 3.7}
+2025-09-14 19:40:38 | INFO | Received Arike Ogunbowale (Dallas Wings) - 21.2 PPG at 2025-09-15T00:40:38Z
+2025-09-14 19:40:38 | INFO | Hot streak threshold: 20.0 PPG
+2025-09-14 19:40:38 | INFO | HOT STREAK! Arike Ogunbowale averaging 20.9 PPG over last 5 games.
+2025-09-14 19:40:41 | INFO | Produced message: {"timestamp": "2025-09-15T00:40:41Z", "player": "Kelsey Plum", "team": "Las Vegas Aces", "ppg": 18.7, "rpg": 2.3, "apg": 4.0}
+2025-09-14 19:40:41 | INFO | Received Kelsey Plum (Las Vegas Aces) - 18.7 PPG at 2025-09-15T00:40:41Z
+2025-09-14 19:40:41 | INFO | Hot streak threshold: 20.0 PPG
+2025-09-14 19:40:41 | INFO | HOT STREAK! Kelsey Plum averaging 20.4 PPG over last 5 games.
+2025-09-14 19:40:43 | INFO | Produced message: {"timestamp": "2025-09-15T00:40:43Z", "player": "Sabrina Ionescu", "team": "New York Liberty", "ppg": 17.0, "rpg": 5.8, "apg": 6.3}
+2025-09-14 19:40:43 | INFO | Received Sabrina Ionescu (New York Liberty) - 17.0 PPG at 2025-09-15T00:40:43Z
+2025-09-14 19:40:43 | INFO | Hot streak threshold: 20.0 PPG
+2025-09-14 19:40:45 | WARNING | Producer interrupted by user.
+2025-09-14 19:40:45 | INFO | Kafka producer for topic 'smoker_csv' closed.
+2025-09-14 19:40:46 | WARNING | Consumer interrupted by user.
+2025-09-14 19:40:46 | INFO | Kafka consumer for topic 'smoker_csv' closed.
+2025-09-14 20:17:27 | INFO | Logging to file: logs/project_log.log
+2025-09-14 20:17:27 | INFO | Log sanitization enabled, personal info removed
+2025-09-14 20:17:27 | INFO | Project root: C:/Users/USER/Documents/44671 Streaming Data/buzzline-03-mcruz
+2025-09-14 20:17:27 | INFO | Data folder: C:/Users/USER/Documents/44671 Streaming Data/buzzline-03-mcruz/data
+2025-09-14 20:17:27 | INFO | Data file: C:/Users/USER/Documents/44671 Streaming Data/buzzline-03-mcruz/data/smoker_temps.csv
+2025-09-14 20:17:27 | INFO | START producer.
+2025-09-14 20:17:27 | INFO | Kafka broker address: localhost:9092
+2025-09-14 20:17:27 | INFO | Kafka is ready. Brokers: {'throttle_time_ms': 0, 'brokers': [{'node_id': 1, 'host': 'localhost', 'port': 9092, 'rack': None}], 'cluster_id': 'vFqzhTEhQa6aR7me4AZZ3g', 'controller_id': 1}
+2025-09-14 20:17:27 | INFO | Kafka topic: smoker_csv
+2025-09-14 20:17:27 | INFO | Message interval: 5 seconds
+2025-09-14 20:17:27 | INFO | Kafka broker address: localhost:9092
+2025-09-14 20:17:27 | INFO | Connecting to Kafka broker at localhost:9092...
+2025-09-14 20:17:27 | INFO | Kafka producer successfully created.
+2025-09-14 20:17:27 | INFO | Kafka broker address: localhost:9092
+2025-09-14 20:17:28 | INFO | Topic 'smoker_csv' already exists. Recreating fresh...
+2025-09-14 20:17:28 | INFO | Requested deletion of topic 'smoker_csv'.
+2025-09-14 20:17:28 | INFO | Topic 'smoker_csv' created successfully.
+2025-09-14 20:17:28 | INFO | Kafka topic 'smoker_csv' is ready.
+2025-09-14 20:17:28 | INFO | Starting message production to topic 'smoker_csv'...
+2025-09-14 20:17:28 | INFO | Opening data file in read mode: C:/Users/USER/Documents/44671 Streaming Data/buzzline-03-mcruz/data/smoker_temps.csv
+2025-09-14 20:17:28 | INFO | Reading data from file: C:/Users/USER/Documents/44671 Streaming Data/buzzline-03-mcruz/data/smoker_temps.csv
+2025-09-14 20:17:28 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-15T01:17:28.152889', 'temperature': 70.4, 'city': 'Las Vegas', 'continent': 'North America'}
+2025-09-14 20:17:33 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-15T01:17:33.154970', 'temperature': 70.8, 'city': 'New York', 'continent': 'North America'}
+2025-09-14 20:17:38 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-15T01:17:38.157023', 'temperature': 71.2, 'city': 'São Paulo', 'continent': 'South America'}
+2025-09-14 20:17:43 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-15T01:17:43.160029', 'temperature': 71.6, 'city': 'New York', 'continent': 'North America'}
+2025-09-14 20:17:48 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-15T01:17:48.162965', 'temperature': 72.0, 'city': 'New York', 'continent': 'North America'}
+2025-09-14 20:17:53 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-15T01:17:53.172655', 'temperature': 72.4, 'city': 'Cape Town', 'continent': 'Africa'}
+2025-09-14 20:17:58 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-15T01:17:58.178961', 'temperature': 72.8, 'city': 'Tokyo', 'continent': 'Asia'}
+2025-09-14 20:18:03 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-15T01:18:03.180663', 'temperature': 73.2, 'city': 'Sydney', 'continent': 'Australia'}
+2025-09-14 20:18:08 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-15T01:18:08.182592', 'temperature': 73.6, 'city': 'New York', 'continent': 'North America'}
+2025-09-14 20:18:13 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-15T01:18:13.184162', 'temperature': 74.0, 'city': 'Sydney', 'continent': 'Australia'}
+2025-09-14 20:18:18 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-15T01:18:18.188489', 'temperature': 74.4, 'city': 'Tokyo', 'continent': 'Asia'}
+2025-09-14 20:18:19 | INFO | Logging to file: logs/project_log.log
+2025-09-14 20:18:19 | INFO | Log sanitization enabled, personal info removed
+2025-09-14 20:18:19 | INFO | START consumer.
+2025-09-14 20:18:19 | INFO | Kafka topic: smoker_csv
+2025-09-14 20:18:19 | INFO | Kafka consumer group id: smoker_group
+2025-09-14 20:18:19 | INFO | Rolling window size: 10
+2025-09-14 20:18:19 | INFO | Consumer: Topic 'smoker_csv' and group 'smoker_group'...
+2025-09-14 20:18:19 | INFO | Rolling window size: 10
+2025-09-14 20:18:19 | INFO | Kafka broker address: localhost:9092
+2025-09-14 20:18:19 | INFO | Creating Kafka consumer. Topic='smoker_csv' and group ID='smoker_group'.
+2025-09-14 20:18:20 | INFO | Kafka consumer created successfully.
+2025-09-14 20:18:20 | INFO | Polling messages from topic 'smoker_csv'...
+2025-09-14 20:18:20 | ERROR | Error while consuming messages: Invalid file descriptor: -1
+2025-09-14 20:18:20 | INFO | Kafka consumer for topic 'smoker_csv' closed.
+2025-09-14 20:18:23 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-15T01:18:23.194823', 'temperature': 74.8, 'city': 'Sydney', 'continent': 'Australia'}
+2025-09-14 20:18:28 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-15T01:18:28.198640', 'temperature': 75.2, 'city': 'New York', 'continent': 'North America'}
+2025-09-14 20:18:33 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-15T01:18:33.203632', 'temperature': 75.6, 'city': 'Sydney', 'continent': 'Australia'}
+2025-09-14 20:18:38 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-15T01:18:38.205065', 'temperature': 76.0, 'city': 'New York', 'continent': 'North America'}
+2025-09-14 20:18:43 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-15T01:18:43.206708', 'temperature': 76.4, 'city': 'Cape Town', 'continent': 'Africa'}
+2025-09-14 20:18:44 | INFO | Logging to file: logs/project_log.log
+2025-09-14 20:18:44 | INFO | Log sanitization enabled, personal info removed
+2025-09-14 20:18:44 | INFO | START consumer.
+2025-09-14 20:18:44 | INFO | Kafka topic: smoker_csv
+2025-09-14 20:18:44 | INFO | Kafka consumer group id: smoker_group
+2025-09-14 20:18:44 | INFO | Rolling window size: 10
+2025-09-14 20:18:44 | INFO | Consumer: Topic 'smoker_csv' and group 'smoker_group'...
+2025-09-14 20:18:44 | INFO | Rolling window size: 10
+2025-09-14 20:18:44 | INFO | Kafka broker address: localhost:9092
+2025-09-14 20:18:44 | INFO | Creating Kafka consumer. Topic='smoker_csv' and group ID='smoker_group'.
+2025-09-14 20:18:44 | INFO | Kafka consumer created successfully.
+2025-09-14 20:18:44 | INFO | Polling messages from topic 'smoker_csv'...
+2025-09-14 20:18:47 | INFO | Processed JSON message: {'timestamp': '2025-09-15T01:17:33.154970', 'temperature': 70.8, 'city': 'New York', 'continent': 'North America'}
+2025-09-14 20:18:47 | INFO | Rolling window size: 10
+2025-09-14 20:18:47 | INFO | [Continent Avg] North America: 70.80°F (based on 1 readings)
+2025-09-14 20:18:47 | INFO | Processed JSON message: {'timestamp': '2025-09-15T01:17:38.157023', 'temperature': 71.2, 'city': 'São Paulo', 'continent': 'South America'}
+2025-09-14 20:18:47 | INFO | Rolling window size: 10
+2025-09-14 20:18:47 | INFO | [Continent Avg] South America: 71.20°F (based on 1 readings)
+2025-09-14 20:18:47 | INFO | Processed JSON message: {'timestamp': '2025-09-15T01:17:43.160029', 'temperature': 71.6, 'city': 'New York', 'continent': 'North America'}
+2025-09-14 20:18:47 | INFO | Rolling window size: 10
+2025-09-14 20:18:47 | INFO | Rolling window size: 10
